@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Màu chính -->
+    <color name="primary">#121212</color>
+    <color name="primary_dark">#000000</color>
+    <color name="primary_light">#1E1E1E</color>
+
+
+    <!-- Màu phụ -->
+    <color name="gold">#D4AF37</color>
+    <color name="secondary_light">#F5D76E</color>
+
+
+    <!-- Background -->
+    <color name="background">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="login">#FCE8E8</color>
+
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+
+    <!-- Button -->
+    <color name="button_login">#e83838</color>
+    <color name="button_register">#D4AF37</color>
+
+
+    <!-- Product -->
+    <color name="sale_color">#FF5722</color>
+    <color name="price_red">#E53935</color>
+
+
+    <!-- Divider -->
+    <color name="divider">#E0E0E0</color>
+
+
+    <!-- Bottom Navigation -->
+    <color name="bottom_selected">#D4AF37</color>
+    <color name="text_secondery">#757575</color>
+
+
+    <!-- Error -->
+    <color name="error">#D32F2F</color>
+    <color name="button">#009688</color>
+
+</resources>

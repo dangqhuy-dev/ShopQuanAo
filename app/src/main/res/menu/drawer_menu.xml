@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Trang chủ"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:id="@+id/menu_aonam"
+        android:title="Áo Nam"
+        android:icon="@drawable/ic_shirt"/>
+
+    <item
+        android:id="@+id/menu_aonu"
+        android:title="Áo Nữ"
+        android:icon="@drawable/ic_shirt_fm"/>
+
+    <item
+        android:id="@+id/menu_quan"
+        android:title="Quần"
+        android:icon="@drawable/ic_pants"/>
+
+    <item
+        android:id="@+id/menu_phukien"
+        android:title="Phụ kiện"
+        android:icon="@drawable/ic_accessory"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Đăng xuất"
+        android:icon="@drawable/baseline_logout_24"/>
+
+</menu>
